@@ -3,7 +3,7 @@
 # Real-time 3D-aware Portrait Video Relighting
 Official PyTorch implementation of the CVPR 2024 Highlight Paper
 
-
+![Pipeline](docs/pipeline.png)
 
 **Real-time 3D-aware Portrait Video Relighting**</br>
 Ziqi Cai, Kaiwen Jiang, Shu-Yu Chen, Yu-Kun Lai, Hongbo Fu, Boxin Shi, Lin Gao*
